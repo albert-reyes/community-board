@@ -1,12 +1,18 @@
-import restaurant from './assets/Eureka!.jpeg' 
-function Card(){
-    return(
-      <div className="App">
-        <img src={restaurant} alt="profile picture"></img>
-        <h2>Albert Card</h2>
-        <p>Ace card!</p>
-      </div>
-    );
-  }
+import React from 'react';
 
-  export default Card
+function Card(props) {
+  const { title, text, image, link } = props;
+
+  return (
+    <div className="card">
+      <img className='card-image' src={image} alt="profile picture" style={{ width: '200px' }}></img>
+      <h2 className='card-title'>{title}</h2>
+      <p className='card-text'>{text}</p>
+      <a href={link} className="card-link">
+        <button className="card-button">View Restaurant</button>
+      </a>
+    </div>
+  );
+}
+
+export default Card;
