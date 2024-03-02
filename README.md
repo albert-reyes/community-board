@@ -26,10 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![project1_slospots](https://github.com/albert-reyes/community-board/assets/109039459/65197596-dfa3-4d7d-bfa2-da4032b7ea10)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
