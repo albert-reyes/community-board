@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *SLO Spots*
 
 Submitted by: **Albert Reyes**
 
 This web app: **A digital community board to conveniently access information, providing users with a centralized hub for community engagement.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
