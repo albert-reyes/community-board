@@ -18,8 +18,8 @@ function App() {
       <Card title="Goshi" text="570 Higuera St #155" image={restaurant2} link="http://www.goshislo.com/"/>
       <Card title="Ox + Anchor" text="877 Palm St" image={restaurant3}   link="https://oxandanchor.com/"/>
       <Card title="Nate's on Marsh" text="450 Marsh St" image={restaurant4} link="https://www.natesonmarsh.com/"/>
-      <Card title="Mama's Meatball" text="570 Higuera St #130" image={restaurant5} link="https://www.mamasmeatball.com/"/>
-      <Card title="Madonna Inn Copper Cafe" text="100 Madonna Rd" image={restaurant6} link="https://www.madonnainn.com/copper-cafe"/>
+      <Card title="Mama'sMeatball" text="570 Higuera St #130" image={restaurant5} link="https://www.mamasmeatball.com/"/>
+      <Card title="Copper Cafe" text="100 Madonna Rd" image={restaurant6} link="https://www.madonnainn.com/copper-cafe"/>
       <Card title="Koberl At Blue" text="998 Monterey St" image={restaurant7} link="https://www.epkoberl.com/"/>
       <Card title="Card 2" text="Content for Card 2" image={restaurant8} link=""/>
       <Card title="Card 1" text="Content for Card 1" image={restaurant9} link=""/>
