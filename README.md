@@ -2,7 +2,7 @@
 
 Submitted by: **Albert Reyes**
 
-This web app: **A digital community board to conveniently access information, providing users with a centralized hub for community engagement.**
+This web app: **A community board to conveniently access San Luis Obispo, providing users with a centralized hub for spots to dine at.**
 
 Time spent: **5** hours spent in total
 
